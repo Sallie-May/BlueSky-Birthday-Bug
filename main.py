@@ -24,13 +24,13 @@ payload = {
             "$type": "app.bsky.actor.defs#savedFeedsPrefV2",
             "items": [
                 {
-                    "id": "",
+                    "id": "3lc62f7amvl2g",
                     "pinned": True,
                     "type": "feed",
-                    "value": ""
+                    "value": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/whats-hot"
                 },
                 {
-                    "id": "",
+                    "id": "3lc62f7amvm2g",
                     "pinned": True,
                     "type": "timeline",
                     "value": "following"
